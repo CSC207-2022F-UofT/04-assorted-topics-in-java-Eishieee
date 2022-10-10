@@ -1,4 +1,4 @@
-/* TODO: Create a subclass of Trader named DrivableTrader
+/* TODO: Create a  subclass of Trader named DrivableTrader
  * This class should be identical to Trader, except that it takes
  * only Drivable objects in its inventory, wishlist, etc.
  *

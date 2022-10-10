@@ -47,7 +47,7 @@ public class Trader<T> {
 
 
 
-    /* TODO: Implement the method addToWishlist that takes an
+    /* TODO: Implement the method  addToWishlist that takes an
      *       object of type T and adds it to this Trader's wishlist.
      */
     public void addToWishlist(T obj){
