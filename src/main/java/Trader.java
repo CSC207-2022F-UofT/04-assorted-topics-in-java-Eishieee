@@ -57,7 +57,7 @@ public class Trader<T> {
 
 
     /* TODO: Implement the method getSellingPrice that takes an
-     *       object of type T and returns the object's price
+     *       object of type T  and returns the object's price
      *       (via getPrice()) if it's Tradable. If not,
      *       return Tradable.MISSING_PRICE.
      *

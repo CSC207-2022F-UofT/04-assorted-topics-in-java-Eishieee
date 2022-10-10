@@ -35,7 +35,7 @@ public class DrivableTrader extends Trader<Drivable>{
         super(money);
     }
     @Override
-    public int getSellingPrice(Drivable item) {
+    public int getSellingPrice (Drivable item) {
         int super_price = super.getSellingPrice(item);
 
         if (super_price == Tradable.MISSING_PRICE) {
