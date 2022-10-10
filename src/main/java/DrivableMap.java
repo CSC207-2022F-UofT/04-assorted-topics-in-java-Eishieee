@@ -66,7 +66,7 @@ class DrivableMap {
     public ArrayList getTradable(){
         ArrayList l = new ArrayList();
         for (String keys : this.drivable_map.keySet()){
-            if (this.drivable_map.get(keys) instanceof Drivable){
+            if (this.drivable_map.get(keys) instanceof Tradable){
                 l.add(this.drivable_map.get(keys));
             }
         }
